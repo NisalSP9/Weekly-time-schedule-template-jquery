@@ -1,0 +1,27 @@
+.ticCell {
+    border: 1px solid;
+}
+
+.titelCell {
+    border-right: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 40px;
+}
+
+.dayCell {
+    border-bottom: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 40px;
+}
+
+.saveBtn{
+    background-color: white;
+    width: 130px;
+    height: 30px;
+}
+
+table td.highlighted {
+        background-color: #87CEEB;
+}
